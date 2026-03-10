@@ -1,3 +1,0 @@
-"ID","name","versionNumber","contentType","dataFileSizeBytes","createdBy","createdOn","modifiedBy","modifiedOn","parentId","synapseURL","dataFileMD5Hex"
-"syn59808905","CITATIONS.bib","1","application/octet-stream","6667","3432088","1716411640514","3393723","1716417424500","syn59059776","https://www.synapse.org/#!Synapse:syn59808905.1","5abce355e174dc579451931803bb434e"
-"syn64735496","BraTS-PTG supplementary demographic information and metadata.xlsx","1","application/vnd.openxmlformats-officedocument.spreadsheetml.sheet","98329","3494168","1738784527886","3494168","1738784527886","syn59059776","https://www.synapse.org/#!Synapse:syn64735496.1","0c2c90a370c5f237d43f67261b3aeb3c"
